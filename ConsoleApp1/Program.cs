@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
+            //thai dep trai
             //abc
             Console.WriteLine("Hello sssssWorld!");
         }
